@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains Machine learning Codes and techniques
+This repository contains Linear Regression Code on Boston Housing data 
